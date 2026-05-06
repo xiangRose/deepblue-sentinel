@@ -1,0 +1,4 @@
+{"domain": "steamcommmunity03.top", "similar_domains": ["steamcommmunity02.top", "steamcommmunity01.top"], "similar_scores": [0.9934514760971069, 0.9682748913764954]}
+{"domain": "www.amazoon.co.uk4.top", "similar_domains": ["www.amazoon.co.uk3.top", "www.amazoon.co.uk2.top", "www.amazoon.co.uk1.top"], "similar_scores": [0.9856408834457397, 0.9840406179428101, 0.9834299087524414]}
+{"domain": "steamcommmunity04.top", "similar_domains": ["steamcommmunity02.top", "steamcommmunity01.top", "steamcommmunity0.top", "steamcommmunity1.top"], "similar_scores": [0.9952679872512817, 0.9723274111747742, 0.9670939445495605, 0.9608684778213501]}
+{"domain": "www.amazoon.co.uk5.top", "similar_domains": ["www.amazoon.co.uk3.top", "www.amazoon.co.uk2.top", "www.amazoon.co.uk1.top"], "similar_scores": [0.9921387434005737, 0.9893500208854675, 0.989019513130188]}

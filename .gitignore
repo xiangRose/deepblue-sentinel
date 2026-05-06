@@ -1,0 +1,31 @@
+# Python虚拟环境（绝对禁止上传）
+venv/
+env/
+ENV/
+
+# Python缓存
+__pycache__/
+*.py[cod]
+
+# pyinstaller打包文件（绝对禁止上传）
+*.spec
+build/
+dist/
+
+# 数据库文件
+*.db
+*.sqlite
+
+# 日志文件
+*.log
+error_log.txt
+
+# 压缩包和大数据集
+*.zip
+*.rar
+*.7z
+*.csv
+archive/
+
+# Windows批处理
+*.bat

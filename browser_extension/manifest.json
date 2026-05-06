@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "智捕钓域 - 钓鱼域名实时检测",
+  "version": "1.0",
+  "description": "基于SBERT模型的浏览器端钓鱼域名实时防护插件",
+  "permissions": ["tabs", "activeTab", "storage", "notifications"],
+  "host_permissions": ["http://*/*", "https://*/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_icon": {
+      "16": "icons/default.png",
+      "48": "icons/default.png",
+      "128": "icons/default.png"
+    },
+    "default_title": "智捕钓域 - 点击查看检测状态",
+    "default_popup": "popup.html" 
+  },
+  "icons": {
+    "16": "icons/default.png",
+    "48": "icons/default.png",
+    "128": "icons/default.png"
+  }
+}
